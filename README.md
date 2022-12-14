@@ -1,1 +1,1 @@
-# Shor-s-Algorithm-on-Qiskit-and-Cirq
+# Shor's Algorithm on Qiskit and Cirq
